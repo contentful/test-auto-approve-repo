@@ -19,7 +19,7 @@
     "node-fetch": "2.6.1",
     "marked": "15.0.7",
     "dot-prop": "4.2.0",
-    "ws": "7.4.0"
+    "ws": "8.18.1"
   },
   "devDependencies": {
     "eslint": "9.21.0"
